@@ -1,18 +1,10 @@
-body {
-    margin: 0;
-    padding: 0;
-    text-align: center;
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
-h1 {
-    padding-top: 4em;
-}
-
-p {
-    margin: 2em 0;
-}
-
-img {
-    width: 40em;
-    max-width: 90%;
+a {
+    color: blue;
 }
